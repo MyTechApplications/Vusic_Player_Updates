@@ -1,0 +1,1 @@
+1.0.0.1|https://github.com/MyTechApplications/Vusic_Player_Updates/releases/download/v1.0.0.1/updates_dynamic.zip
